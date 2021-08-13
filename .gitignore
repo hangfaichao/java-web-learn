@@ -14,7 +14,7 @@ target/
 .idea/
 out/
 log/
-tomcat.8080/
+tomcat.*/
 
 # Package Files #
 *.jar
